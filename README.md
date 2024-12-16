@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web development, DevOps, Machine Learning.**
 
-- 💬 Ask me about **Python, Data Analysis, Web Development, JavaScript, Machine learning**
+- 💬 Ask me about **Python, Data Analysis, Web Development, Cloud Networking, Machine learning**
 
 - 📫 How to reach me **watsauce@outlook.com**
 
