@@ -43,11 +43,6 @@
 </div>
 
 ###
-
-<div align="center">
-  <a href="https://x.com/PriyanshuAch" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" width="52" height="40" alt="twitter logo" />
-  </a>
   <a href="https://www.youtube.com/@watsaucee" target="_blank">
   </a>
 </div>
