@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning **Web development, DevOps, Machine Learning.**
 
-- 💬 Ask me about **Python, Data Analysis, Web Development, Cloud Networking, Machine learning**
+- 💬 Ask me about **Python, Data Analysis, Cloud Networking, and Machine learning**
+
+- 😀 Pronouns: He/Him
 
 - 📫 How to reach me **watsauce@outlook.com**
 
